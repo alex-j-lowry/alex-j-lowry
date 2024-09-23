@@ -1,4 +1,4 @@
-![The troubleshooting process.](IMG_0618.jpg)
+![The troubleshooting process.](IMG_0618S.JPG)
 
 My main hobby is building electronics magazine circuits from the 70's and 80's. The easiest way to do this is often to recreate the whole PCB in KiCad and outsource its production to China.
 
