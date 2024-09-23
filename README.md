@@ -1,5 +1,3 @@
-## Hi there
-
 My main hobby is building electronics magazine circuits from the 70's and 80's. The easiest way to do this is often to recreate the whole PCB in KiCad and outsource its production to China.
 
 Once I've tested a board and ironed out any imperfections through revisions, I upload them here. My goal is to make these interesting circuits easier to build in the modern age.
