@@ -4,4 +4,5 @@ Welcome! On this page, you can find links to my electronics projects. If you wan
 
 If you have any questions relating to a circuit or you'd like to suggest modifications/improvements, you can reach me at my email address:
 > *al5338 { at symbol } seznam { full stop/period } cz*
+
 I check my inbox approximately once per week.
