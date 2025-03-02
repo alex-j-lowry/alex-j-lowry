@@ -7,3 +7,5 @@ If you have any questions relating to a circuit or you'd like to suggest modific
 > *al5338 { at symbol } seznam { full stop/period } cz*
 
 I check my inbox approximately once per week.
+
+Currently, all my projects are accessible only on [alex-j-lowry.github.io](https://alex-j-lowry.github.io/). I'll eventually get around to uploading them here as well.
