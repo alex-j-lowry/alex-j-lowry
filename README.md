@@ -4,8 +4,10 @@ Welcome! On this page, you can find links to my electronics projects. If you wan
 
 If you have any questions relating to a circuit or you'd like to suggest modifications/improvements, you can reach me at my email address:
 
-> *al5338 { at symbol } seznam { full stop/period/point } cz*
+> *al5338 { letter "a" with a circle around it } seznam { full stop/period/point } cz*
 
 I check my inbox approximately once per week.
+
+All my creations are open source; you are free to distribute, modify and sell them however you like.
 
 Currently, all my projects are accessible only on [alex-j-lowry.github.io](https://alex-j-lowry.github.io/). I'll eventually get around to uploading them here as well.
