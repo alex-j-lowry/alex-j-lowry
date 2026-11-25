@@ -6,7 +6,7 @@ If you have any questions relating to a circuit or you'd like to suggest modific
 
 > *al5338 { letter "a" with a circle around it } seznam { full stop/period/point } cz*
 
-I check my inbox approximately once per week.
+I check my inbox as often as I can (usually daily).
 
 All my creations are open source; you are free to distribute, modify and sell them however you like.
 
